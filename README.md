@@ -1,5 +1,5 @@
 
-qgfpùqgjoiqgjre
+
 # Worst website in the World
 
 ### Analysis
