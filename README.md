@@ -18,6 +18,15 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 - [ ] Where to go for a good massage
 - [x] How bad a migraine can get
 
+### The biggest issues with this website:
+ - Music downloads with every page you open
+ - Important information is buried in paragraphs
+ - Flashing, moving imagines on a bright, neon background
+ - Non-working links
+ - No social media
+ - No actual photos
+
+
 ### What would we change about it?
 
 1. Make a more soothing contrast
