@@ -16,10 +16,10 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 
 ### What would we change about it?
 
- 1 Make a more soothing contrast
- 2 Scrolling navigation bar
- 3 Remove Flash elements
- 4 Exchange stock photo's ofr actual informative photo's.
+1. Make a more soothing contrast
+2. Scrolling navigation bar
+3. Remove Flash elements
+4. Exchange stock photo's ofr actual informative photo's.
 
 
 
