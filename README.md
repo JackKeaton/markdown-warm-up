@@ -18,14 +18,6 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 - [ ] Where to go for a good massage
 - [x] How bad a migraine can get
 
-### What would we change about it?
-
-1. Make a more soothing contrast
-2. Scrolling navigation bar
-3. Remove Flash elements
-4. Exchange stock photo's of actual informative photo's.
-5. Social media
-
 ### What has to be removed?
 
 * Music, especially the automatic download feature
@@ -33,7 +25,13 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 * Stock photo's and Flash elements
 * Wrong use of emphasis
 
-### What did this website teach us?
+### What would we change about it?
+
+1. Make a more soothing contrast
+2. Scrolling navigation bar
+3. Remove Flash elements
+4. Social media
+5. Exchange stock photo's of actual informative photo's. 
 
 For example, rather than this:
 
