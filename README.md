@@ -20,6 +20,7 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 2. Scrolling navigation bar
 3. Remove Flash elements
 4. Exchange stock photo's ofr actual informative photo's.
+5. fjmlùf
 
 
 
