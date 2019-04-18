@@ -26,7 +26,9 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 4. Exchange stock photo's of actual informative photo's.
 
 For example, rather than this:
+
+
 ![stock photo](./massage.png)
 
 
-Have an actual photo of the spa, or the owners, fitting the page.
+Have an actual photo of the spa, or the owners, adjusted to the page layout.
