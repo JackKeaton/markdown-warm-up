@@ -19,7 +19,7 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 1. Make a more soothing contrast
 2. Scrolling navigation bar
 3. Remove Flash elements
-4. Exchange stock photo's ofr actual informative photo's.
+4. Exchange stock photo's of actual informative photo's.
 
 
 
