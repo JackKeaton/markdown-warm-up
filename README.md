@@ -26,4 +26,4 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 - [ ] Where to go for a good massage
 - [x] How bad a migraine can get
 
-![stock photo](/stock photo.jpeg)
+![stock photo](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjb__W6kNnhAhXMyKQKHdrLCEMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_34841710_young-woman-in-spa-salon-getting-massage.html&psig=AOvVaw3ZVbTFyLU3DIJwa8f-vaj0&ust=1555658421224891)
