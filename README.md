@@ -21,6 +21,14 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 3. Remove Flash elements
 4. Exchange stock photo's of actual informative photo's.
 
+### What has to be removed?
+
+* Music, especially the automatic download feature
+* Links that aren't actual links
+* Stock photo's and Flash elements
+* Wrong use of emphasis
+
+
 ### What did this website teach us?
 
 - [ ] Where to go for a good massage
