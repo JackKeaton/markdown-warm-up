@@ -11,7 +11,7 @@ We found this website for a... [Spa and healthcare center](http://www.serene-nat
 Looking for blogs that mock bad website design, we found one that looked rather terrible itself. *This* website however was far worse! One of us is still bleaching his eyes every hour.
 
 ### Does it have regular updates?
-Define regular? In short, no. It looks like it was made in MS Paint, with just a dash of epileptic seizures mixed in.
+Define regular? In short, no. It looks like it was made in MS Paint, by someone actively having an epileptic seizure.
 
 ### What did this website teach us?
 
