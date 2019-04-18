@@ -26,7 +26,19 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 4. Exchange stock photo's of actual informative photo's.
 5. Social media
 
+### What has to be removed?
+
+* Music, especially the automatic download feature
+* Links that aren't actual links
+* Stock photo's and Flash elements
+* Wrong use of emphasis
+
+26
+#
+### What did this website teach us?
+
 For example, rather than this:
+
 
 
 ![stock photo](./massage.png)
