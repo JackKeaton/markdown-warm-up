@@ -33,8 +33,6 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 * Stock photo's and Flash elements
 * Wrong use of emphasis
 
-26
-#
 ### What did this website teach us?
 
 For example, rather than this:
