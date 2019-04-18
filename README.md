@@ -13,4 +13,10 @@ Looking for blogs that mock bad website design, we found one that looked rather 
 
 ### What would we change about it?
 
+ - Make a more soothing contrast
+ - Scrolling navigation bar
+ - Remove Flash elements
+
+
+
 
