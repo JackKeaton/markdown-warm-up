@@ -48,3 +48,7 @@ For example, rather than this:
 
 
 Have an actual photo of the spa, or the owners, adjusted to the page layout.
+
+### Why does it need an overhaul?
+ - To provide information on their services
+ - To feel and look professional
