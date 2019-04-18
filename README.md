@@ -18,6 +18,13 @@ Define regular? In short, no. It looks like it was made in MS Paint, with just a
 - [ ] Where to go for a good massage
 - [x] How bad a migraine can get
 
+### Ways and places this hurts
+
+Place | Type of pain
+------------ | -------------
+Head| Physical
+Heart| Emotional
+
 ### What has to be removed?
 
 * Music, especially the automatic download feature
